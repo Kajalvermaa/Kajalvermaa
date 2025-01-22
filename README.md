@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Harsh Shrivastava
+# Hey there! 👋 I'm Kajal Vermaa
 
 Welcome to my GitHub corner! I'm a passionate developer who loves turning ideas into reality through code. Here’s a sneak peek into what I do and what excites me.
 
@@ -32,7 +32,7 @@ Here are some highlights from my work:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kajalvermaa&layout=compact&theme=radical)
 
 ## 💬 Let's Connect
-- **LinkedIn**: [Harsh Shrivastava](https://www.linkedin.com/in/harsh-2001/)
+- **LinkedIn**: [Kajal Vermaa](https://www.linkedin.com/in/harsh-2001/)
 - **Medium**; [Harsh's Blog](https://medium.com/@harshushri50)
 - **Portfolio**; [Portfolio](https://portfolio-7ab7b.web.app/)
 - **Email**: [harshshrivastava.mel@gmail.com](mailto:harshshrivastava.me@gmail.com)
